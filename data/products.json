@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "price": 180,
+    "condition": "Good",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=900&q=80",
+    "description": "A well-loved copy of a timeless classic.",
+    "stock": 3
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self Help",
+    "price": 220,
+    "condition": "Like New",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80",
+    "description": "Excellent condition with minimal markings.",
+    "stock": 2
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Classic",
+    "price": 170,
+    "condition": "Fair",
+    "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=900&q=80",
+    "description": "A classic novel at a budget-friendly price.",
+    "stock": 4
+  }
+]
